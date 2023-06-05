@@ -1,1 +1,1 @@
-# Diagnosis-of-Alzheimer-s-disease-via-Intuitionistic-fuzzy-least-squares-twin-SVM
+This file contains the code of our article "Diagnosis of Alzheimer’s disease via Intuitionistic fuzzy least squares twin SVM". If you are using this code, please give proper citation to our article  "Diagnosis of Alzheimer’s disease via Intuitionistic fuzzy least squares twin SVM".
