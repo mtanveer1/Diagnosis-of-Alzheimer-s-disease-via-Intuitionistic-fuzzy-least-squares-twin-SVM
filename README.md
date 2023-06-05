@@ -1,0 +1,1 @@
+# Diagnosis-of-Alzheimer-s-disease-via-Intuitionistic-fuzzy-least-squares-twin-SVM
